@@ -13,12 +13,16 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //-----------
+
+
     }
 
     @Override
     protected void onStart() {
         Log.i(LOG_TAG, "onStart: ");
         super.onStart();
+        //-----------
     }
 
     @Override
