@@ -14,6 +14,13 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         //-----------
+        //11
+        //22
+        //33
+        //44
+        //55
+        //66
+        //77
 
 
     }
@@ -23,6 +30,8 @@ public class MainActivity extends Activity {
         Log.i(LOG_TAG, "onStart: ");
         super.onStart();
         //-----------
+        //111
+
     }
 
     @Override
