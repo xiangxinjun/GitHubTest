@@ -39,6 +39,11 @@ public class MainActivity extends Activity {
     protected void onResume() {
         Log.i(LOG_TAG, "onResume: ");
         super.onResume();
+        //11
+
+
+
+
     }
 
     @Override
